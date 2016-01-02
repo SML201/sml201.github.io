@@ -1,0 +1,7 @@
+_site
+.DS_Store
+*cache
+.Rproj.user
+.RData
+.Rhistory
+*.Rproj
