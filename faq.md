@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 ---
 
-### Frequently Asked Questions  
+## Frequently Asked Questions  
 
 <p></p>
 
