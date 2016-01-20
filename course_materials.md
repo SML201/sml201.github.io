@@ -15,7 +15,7 @@ title: Course Materials
 
 - [Blackboard](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=SML201_S2016)
 
-- [Piazza](https://piazza.com/)
+- [Piazza](https://piazza.com/princeton/spring2016/sml201/home)
 
 
 ## Projects
