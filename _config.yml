@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            SML 201
@@ -21,8 +20,10 @@ paginate_path:    "news/page:num/"
 
 markdown:         kramdown
 
+gems:             [jekyll-paginate]
+
 excerpt_separator: <!--more-->
 
 # Custom vars
-version:          0.1.0
-mod-date:         2015-12-31
+version:          0.2.0
+mod-date:         2016-01-18

@@ -3,7 +3,9 @@ layout: page
 title: Schedule
 ---
 
-### Topics and reading assignments
+---
+
+## Topics and reading assignments
 
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
@@ -12,16 +14,16 @@ title: Schedule
 | 3 | Manipulating and tidying data <br> Getting data in and out of R | *TBD* |
 | 4 | Exploring and visualizing data (part 1) | *TBD* |
 | 5 | Exploring and visualizing data (part 2) | *TBD* |
-| 6 | Clustering and dimension reduction | *TBD* |
-| 7 | Random variables and statistical inference | *TBD* |
-| 8 | Simple statistical tests and estimation | *TBD* |
-| 9 | Regression and modeling (part 1) | *TBD* |
-| 10 | Regression and modeling (part 2) | *TBD* |
-| 11 | Prediction | *TBD* |
+| 6 | Random variables and statistical inference | *TBD* |
+| 7 | Simple statistical tests and estimation | *TBD* |
+| 8 | Regression and modeling (part 1) | *TBD* |
+| 9 | Regression and modeling (part 2) | *TBD* |
+| 10 | Prediction | *TBD* |
+| 11 | Clustering and dimension reduction | *TBD* |
 | 12 | Data science products | *TBD* |
 
 
-### Text book abbreviations used above
+## Text book abbreviations used above
 
 | Abbreviation | Full Title |
 | ---- | ---------- |
@@ -32,12 +34,13 @@ OIS |  [OpenIntro Statistics](https://www.openintro.org/stat/)
 RPDS | [R Programming for Data Science](https://leanpub.com/rprogramming)
 UGR |  [The Undergraduate Guide to R](http://genomine.org/papers/undergradguidetoR.pdf)
 
+---
 
-### Chapter numbers used above
+## Chapter numbers used above
 
 Several of our books do not have the chapters numbered. Here are the chapter numbers corresponding to each chapter title.
 
-*ADS:  The Art of Data Science, by Peng and Matsui*
+#### ADS:  The Art of Data Science
 
 | Chapter | Title |
 | ------- | ----- |
@@ -55,7 +58,7 @@ Several of our books do not have the chapters numbered. Here are the chapter num
 12. | About the Authors
 
 
-*EDAR: Exploratory Data Analysis with R, by Roger Peng*
+#### EDAR: Exploratory Data Analysis with R
 
 | Chapter | Title |
 | ------- | ----- |
@@ -76,7 +79,7 @@ Several of our books do not have the chapters numbered. Here are the chapter num
 15. | Data Analysis Case Study: Changes in Fine Particle Air Pollution in the U.S.
 16. | About the Author
 
-*RPDS: R Programming for Data Science, by Roger Peng* 
+#### RPDS: R Programming for Data Science
 
 | Chapter | Title |
 | ------- | ----- |

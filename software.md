@@ -3,6 +3,8 @@ layout: page
 title: Software
 ---
 
+---
+
 This course will use R and RStudio.
 
 ## Software Installations

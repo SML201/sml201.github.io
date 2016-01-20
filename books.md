@@ -3,6 +3,8 @@ layout: page
 title: Books
 ---
 
+---
+
 We will be using the following books in this course.  *They are all available for free* -- although we note some of the authors do give readers an opportunity to pay for the books.
 
 [The Undergraduate Guide to R](http://genomine.org/papers/undergradguidetoR.pdf), by Trevor Martin

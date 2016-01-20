@@ -3,6 +3,8 @@ layout: page
 title: Course Materials
 ---
 
+---
+
 ## Course Web Sites
 
 - [GitHub](https://github.com/SML201)
@@ -18,12 +20,12 @@ title: Course Materials
 
 ## Projects
 
-- [Project 1](https://github.com/SML201/project1)
+- [Project 1](https://github.com/SML201/projects), due February 22
 
-- [Project 2](.)
+- [Project 2](https://github.com/SML201/projects), due March 21
 
-- [Project 3](.)
+- [Project 3](https://github.com/SML201/projects), due April 18
 
-- [Project 4](.)
+- [Project 4](https://github.com/SML201/projects), due May 10 (Dean's Date)
 
 
