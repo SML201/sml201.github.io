@@ -7,20 +7,22 @@ title: Schedule
 
 ## Topics and reading assignments
 
+*This schedule is subject to change, so please check it regularly.  We will notify the class of changes that affect the upcoming week or any other major changes.*
+
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
-| 1 | What is Data Science? <br> Getting started with R and RStudio | *TBD* |
-| 2 | Data structures <br> Reproducible analyses | *TBD* |
-| 3 | Manipulating and tidying data <br> Getting data in and out of R | *TBD* |
-| 4 | Exploring and visualizing data (part 1) | *TBD* |
-| 5 | Exploring and visualizing data (part 2) | *TBD* |
-| 6 | Random variables and statistical inference | *TBD* |
-| 7 | Simple statistical tests and estimation | *TBD* |
-| 8 | Regression and modeling (part 1) | *TBD* |
-| 9 | Regression and modeling (part 2) | *TBD* |
-| 10 | Prediction | *TBD* |
-| 11 | Clustering and dimension reduction | *TBD* |
-| 12 | Data science products | *TBD* |
+| 1 | What is Data Science? <br> Getting started with R and RStudio | ADS, Ch. 1--3 <br> RPDS, Ch. 3--4 <br> UGR, Sec. 1--4 <br> [Intro to RStudio](http://dss.princeton.edu/training/RStudio101.pdf) |
+| 2 | Data structures and functions <br> Reproducible analyses | EDAS, Ch. 1, 2, 9, 12 <br> RPDS, Ch. 5, 11, 14, 15 <br> UGR, Sec. 4, 5, 9, 10 <br> [R Markdown Guide](http://rmarkdown.rstudio.com)|
+| 3 | Manipulating and tidying data <br> Getting data in and out of R | EDAR, Ch. 2 <br> EDAS, Ch. 3--4 <br> RPDS, Ch. 6, 7, 10, 13 <br> [data.table Vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.pdf) |
+| 4 | Exploring and visualizing data (part 1) | ADS Ch. 4 <br>  EDAR, Ch. 3--9 <br> EDAS, Ch. 5 |
+| 5 | Exploring and visualizing data (part 2) | EDAR, Ch. 13--14 <br> EDAS, Ch. 8, 10, 11 |
+| 6 | Random variables and statistical inference | ADS, Ch. 5--6 <br> OIS Ch. 3--4|
+| 7 | Simple statistical tests and estimation | EDAS, Ch. 6 <br> OIS, Ch. 5--6|
+| 8 | Regression and modeling (part 1) | ADS, Ch. 7 <br> EDAS, Ch. 13 <br> OIS, Ch. 7 |
+| 9 | Regression and modeling (part 2) | OIS, Ch. 8 |
+| 10 | Prediction | ADS, Ch. 8--9 <br> EDAS, Ch. 7 <br> [Intro Stat Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf), Ch. 2 |
+| 11 | Clustering and dimension reduction | EDAR, Ch. 10--12 |
+| 12 | Data science products | ADS, Ch. 10--11 <br> EDAS, Ch. 14 <br> [Shiny Tutorial](http://shiny.rstudio.com/tutorial/) |
 
 
 ## Text book abbreviations used above
