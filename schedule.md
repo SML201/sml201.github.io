@@ -7,7 +7,7 @@ title: Schedule
 
 ## Topics and reading assignments
 
-*This schedule is subject to change, so please check it regularly.  We will notify the class of changes that affect the upcoming week or any other major changes.*
+*This schedule is subject to change, so please check it regularly.  We will notify the class of changes that affect the upcoming week or any other major changes...*
 
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
