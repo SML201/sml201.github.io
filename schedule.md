@@ -11,7 +11,7 @@ title: Schedule
 
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
-| 1 | What is Data Science? <br> Getting started with R and RStudio | ADS, Ch. 1--3 <br> EDAS, Ch. 1, 2 <br> RPDS, Ch. 4--5 <br> UGR, Sec. 4 <br> [Intro to RStudio](http://dss.princeton.edu/training/RStudio101.pdf) |
+| 1 <a name="week1"></a> | What is Data Science? <br> Getting started with R and RStudio | ADS, Ch. 1--3 <br> EDAS, Ch. 1, 2 <br> RPDS, Ch. 4--5 <br> UGR, Sec. 4 <br> [Intro to RStudio](http://dss.princeton.edu/training/RStudio101.pdf) |
 | 2 | Fundamentals of R <br> Reproducible analyses | EDAS, Ch. 12 <br> RPDS, Ch. 5, 11, 14, 15 <br> UGR, Sec. 4, 5, 9, 10 <br> [R Markdown Guide](http://rmarkdown.rstudio.com)|
 | 3 | Manipulating and tidying data <br> Getting data in and out of R | EDAR, Ch. 2 <br> EDAS, Ch. 3--4 <br> RPDS, Ch. 6, 7, 10, 13 <br> [data.table Vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.pdf) |
 | 4 | Exploring and visualizing data (part 1) | ADS Ch. 4 <br>  EDAR, Ch. 3--9 <br> EDAS, Ch. 5, 10, 11 |
