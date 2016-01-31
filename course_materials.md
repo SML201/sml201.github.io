@@ -28,6 +28,7 @@ title: Course Materials
 
 - [Project 4](https://github.com/SML201/projects), due May 10 (Dean's Date)
 
+
 ## Lecture Materials
 
 Week | HTML Slides | All Files
@@ -35,3 +36,11 @@ Week | HTML Slides | All Files
 1 | [week1.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week1/week1.html#/) | [lectures/week1](https://github.com/SML201/lectures/tree/master/week1)
 
 
+## Precept Materials
+
+Coming soon...
+
+
+## Swirl
+
+Coming soon...
