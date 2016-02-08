@@ -39,9 +39,7 @@ Week | HTML Slides | All Files
 
 ## Precept Materials
 
-Coming soon...
+Week | Notes | 
+-----|-------|----------
+1 | [precept1.Rmd](https://github.com/SML201/precepts/blob/master/precept1.Rmd)
 
-
-## Swirl
-
-Coming soon...
