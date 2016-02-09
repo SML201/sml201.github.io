@@ -39,7 +39,7 @@ Week | HTML Slides | All Files
 
 ## Precept Materials
 
-Week | Notes | 
+Week | Notes | All Files 
 -----|-------|----------
-1 | [precept1.Rmd](https://github.com/SML201/precepts/blob/master/precept1.Rmd)
+1 | [precept1.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week1/precept1.Rmd) | [precepts/week1](https://github.com/SML201/precepts/tree/master/week1) 
 
