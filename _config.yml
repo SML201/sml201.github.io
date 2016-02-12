@@ -24,6 +24,3 @@ gems:             [jekyll-paginate]
 
 excerpt_separator: <!--more-->
 
-# Custom vars
-version:          0.2.0
-mod-date:         2016-01-18

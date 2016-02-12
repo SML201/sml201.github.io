@@ -13,7 +13,7 @@ title: Schedule
 | :----: | -------- | ------: |
 | 1 <a name="week1"></a> | What is Data Science? <br> Getting started with R and RStudio | ADS, Ch. 1--3 <br> EDAS, Ch. 1, 2 <br> RPDS, Ch. 4--5 <br> UGR, Sec. 4 <br> [Intro to RStudio](http://dss.princeton.edu/training/RStudio101.pdf) |
 | 2 | Fundamentals of R <br> Reproducible analyses | EDAS, Ch. 12 <br> RPDS, Ch. 5, 11, 14, 15 <br> UGR, Sec. 4, 5, 9, 10 <br> [R Markdown Guide](http://rmarkdown.rstudio.com)|
-| 3 | Manipulating and tidying data | EDAR, Ch. 2 <br> EDAS, Ch. 3--4 <br> RPDS, Ch. 10, 13 |
+| 3 | Manipulating and tidying data | EDAR, Ch. 2 <br> EDAS, Ch. 3--4 <br> RPDS, Ch. 10, 13 <br> Note: EDAR Ch. 2 = RPDS Ch. 13 |
 | 4 | Getting data in and out of R <br> Exploring and visualizing data (part 1) | ADS Ch. 4 <br>  EDAR, Ch. 3--9 <br> EDAS, Ch. 5, 10, 11 <br> RPDS, Ch. 6, 7 |
 | 5 | Exploring and visualizing data (part 2) | EDAR, Ch. 13--14 <br> Recommended: <br> OIS Ch. 3 |
 | 6 | Random variables and statistical inference | ADS, Ch. 5--6 <br> OIS Ch. 3--4|
