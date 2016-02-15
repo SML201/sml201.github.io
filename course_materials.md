@@ -28,6 +28,7 @@ title: Course Materials
 
 - [Project 4](https://github.com/SML201/project4), due May 10 (Dean's Date)
 
+---
 
 ## Lecture Materials
 
@@ -35,11 +36,13 @@ Week | HTML Slides | All Files
 -----|-------------|----------
 1 | [week1.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week1/week1.html#/) | [lectures/week1](https://github.com/SML201/lectures/tree/master/week1)
 2 | [week2.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week2/week2.html#/) | [lectures/week2](https://github.com/SML201/lectures/tree/master/week2)
+3 | [week3.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week3/week3.html#/) | [lectures/week2](https://github.com/SML201/lectures/tree/master/week3)
 
+---
 
 ## Precept Materials
 
 Week | Notes | All Files 
 -----|-------|----------
 1 | [precept1.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week1/precept1.Rmd) | [precepts/week1](https://github.com/SML201/precepts/tree/master/week1) 
-
+2 | [precept2.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week2/precept2.Rmd) | [precepts/week2](https://github.com/SML201/precepts/tree/master/week2)

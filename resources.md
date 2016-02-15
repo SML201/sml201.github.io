@@ -23,6 +23,10 @@ These web sites may provide useful additional information, background, or practi
 
 - [`ggplot2` Documentation](http://ggplot2.org)
 
+- [Advanced R](http://adv-r.had.co.nz)
+
+- [R Packages](http://r-pkgs.had.co.nz)
+
 
 ## For Fun
 
