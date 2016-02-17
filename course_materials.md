@@ -20,7 +20,7 @@ title: Course Materials
 
 ## Projects
 
-- [Project 1](https://github.com/SML201/project1), due February 22
+- [Project 1](https://github.com/SML201/project1), due February 26
 
 - [Project 2](https://github.com/SML201/project2), due March 25
 
