@@ -46,7 +46,7 @@ Week | HTML Slides | Notes | All Files
 8 | [week8.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week8/week8.html#/) | [week8_notes.pdf](https://github.com/SML201/lectures/raw/master/week8/week8_notes.pdf) | [lectures/week8](https://github.com/SML201/lectures/tree/master/week8)
 9 | [week9.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week9/week9.html#/) | [week9_notes.pdf](https://github.com/SML201/lectures/raw/master/week9/week9_notes.pdf) | [lectures/week9](https://github.com/SML201/lectures/tree/master/week9)
 10 | [week10.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week10/week10.html#/) | [week10_notes.pdf](https://github.com/SML201/lectures/raw/master/week10/week10_notes.pdf) | [lectures/week10](https://github.com/SML201/lectures/tree/master/week10)
-11 | [week11.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week11/week11.html#/) | [week11_notes.pdf](https://github.com/SML201/lectures/raw/master/week11/week11_notes.pdf) | [lectures/week4](https://github.com/SML201/lectures/tree/master/week11)
+11 | [week11.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week11/week11.html#/) | [week11_notes.pdf](https://github.com/SML201/lectures/raw/master/week11/week11_notes.pdf) | [lectures/week11](https://github.com/SML201/lectures/tree/master/week11)
 12 | [week12.html](http://htmlpreview.github.io/?https://github.com/SML201/lectures/blob/master/week12/week12.html#/) | [week12_notes.pdf](https://github.com/SML201/lectures/raw/master/week12/week12_notes.pdf) | [lectures/week12](https://github.com/SML201/lectures/tree/master/week12)
 
 ----
