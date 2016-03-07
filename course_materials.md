@@ -41,6 +41,7 @@ Week | HTML Slides | Notes | All Files
 3 | [week3.html](http://sml201.github.io/lectures/week3/week3.html) | [week3_notes.pdf](http://sml201.github.io/lectures/week3/week3_notes.pdf) | [lectures/week3](https://github.com/SML201/lectures/tree/master/week3)
 4 | [week4.html](http://sml201.github.io/lectures/week4/week4.html) | [week4_notes.pdf](http://sml201.github.io/lectures/week4/week4_notes.pdf) | [lectures/week4](https://github.com/SML201/lectures/tree/master/week4)
 5 | [week5.html](http://sml201.github.io/lectures/week5/week5.html) | [week5_notes.pdf](http://sml201.github.io/lectures/week5/week5_notes.pdf) | [lectures/week5](https://github.com/SML201/lectures/tree/master/week5)
+6 | [week6.html](http://sml201.github.io/lectures/week6/week6.html) | [week6_notes.pdf](http://sml201.github.io/lectures/week6/week6_notes.pdf) | [lectures/week6](https://github.com/SML201/lectures/tree/master/week6)
 
 ----
 
