@@ -16,13 +16,13 @@ title: Schedule
 | 3 | Manipulating and tidying data | EDAR, Ch. 2 <br> EDAS, Ch. 3--4 <br> RPDS, Ch. 10, 13 <br> *Note: EDAR Ch. 2 =* <br> *RPDS Ch. 13* |
 | 4 | Getting data in and out of R <br> Exploring and visualizing data (part 1) | ADS Ch. 4 <br>  EDAR, Ch. 3--9 <br> EDAS, Ch. 5, 10, 11 <br> RPDS, Ch. 6, 7 |
 | 5 | Exploring and visualizing data (part 2) | EDAR, Ch. 13--14 <br> Recommended: <br> OIS Ch. 3 |
-| 6 | Random variables and statistical inference | ADS, Ch. 5--6 <br> OIS Ch. 3--4|
-| 7 | Simple statistical tests and estimation | EDAS, Ch. 6 <br> OIS, Ch. 5--6|
-| 8 | Regression and modeling (part 1) | ADS, Ch. 7 <br> EDAS, Ch. 8, 9, 13 <br> OIS, Ch. 7 |
-| 9 | Regression and modeling (part 2) | OIS, Ch. 8 |
-| 10 | Prediction | ADS, Ch. 8--9 <br> EDAS, Ch. 7 <br> [Intro Stat Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf), Ch. 2 |
-| 11 | Clustering and dimension reduction | EDAR, Ch. 10--12 |
-| 12 | Data science products | ADS, Ch. 10--11 <br> EDAS, Ch. 14 <br> [Shiny Tutorial](http://shiny.rstudio.com/tutorial/) |
+| 6 | Random variables | OIS Ch. 3|
+| 7 | Statistical inference | ADS, Ch. 5--6 <br> OIS Ch. 4|
+| 8 | Simple statistical tests and estimation | EDAS, Ch. 6 <br> OIS, Ch. 5--6|
+| 9 | Regression and modeling (part 1) | ADS, Ch. 7 <br> EDAS, Ch. 8, 9, 13 <br> OIS, Ch. 7 |
+| 10 | Regression and modeling (part 2) | OIS, Ch. 8 |
+| 11 | Prediction | ADS, Ch. 8--9 <br> EDAS, Ch. 7 <br> [Intro Stat Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf), Ch. 2 |
+| 12 | Clustering and dimension reduction | EDAR, Ch. 10--12 |
 
 
 ## Text book abbreviations used above
