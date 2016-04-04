@@ -59,4 +59,5 @@ Week | Notes | All Files
 5 | [precept5.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week5/precept5.Rmd) | [precepts/week5](https://github.com/SML201/precepts/tree/master/week5)
 6 | [precept6.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week6/precept6.Rmd) | [precepts/week6](https://github.com/SML201/precepts/tree/master/week6)
 7 | [precept7.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week7/precept7.Rmd) | [precepts/week7](https://github.com/SML201/precepts/tree/master/week7)
+8 | [precept8.Rmd](https://raw.githubusercontent.com/SML201/precepts/master/week8/precept8.Rmd) | [precepts/week8](https://github.com/SML201/precepts/tree/master/week8)
 
